@@ -1,0 +1,2 @@
+# GausTrick
+some task GausTrick
